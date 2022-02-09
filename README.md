@@ -1,4 +1,4 @@
-![Tomek's Github banner](https://user-images.githubusercontent.com/95850553/146602426-f9885401-257c-49a1-ac37-3c020091fc48.jpg)
+![Tomek's Github banner](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80)
 
 <h1 align="center">Hi 👋, I'm Tomek!</h1>
 <h3 align="center">A computer science student from Poland</h3>

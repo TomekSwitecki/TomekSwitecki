@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently mastering my **frontend skills**
 
-- 💻 Python,C++,C#
-
 - 📰 Gamedev,Frontend,UI/UX Design
 
 - 📫 How to reach me **ttwitecki@gmail.com**

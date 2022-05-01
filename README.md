@@ -4,7 +4,7 @@
 <h3 align="center">A computer science student from Poland.</h3>
 
 
-<div align="center>
+<h3 align="center>
 - 🌱 I’m currently mastering my **React** skills
 
 - 📰 Frontend, Backend, Gamedev, UI/UX Design
@@ -12,7 +12,7 @@
 - 📫 How to reach me **ttwitecki@gmail.com**
 
 - 🔭 I’m currently working on **homework-project** 👇
-  </div>
+  </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomekSwitecki&repo=homework-project&theme=react)](https://github.com/TomekSwitecki/homework-project)
 

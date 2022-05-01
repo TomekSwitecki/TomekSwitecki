@@ -12,7 +12,7 @@
 - 📫 How to reach me **ttwitecki@gmail.com**
 
 - 🔭 I’m currently working on **homework-project** 👇
-
+- https://tomekswitecki.github.io/homework-project/#/landing
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomekSwitecki&repo=homework-project&theme=react)](https://github.com/TomekSwitecki/homework-project)
 

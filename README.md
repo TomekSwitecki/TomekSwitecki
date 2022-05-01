@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently mastering my **React** skills
+- 🌱 I’m currently mastering my **React** [![github](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207)] skills
 
 - 📰 Frontend, Backend, Gamedev, UI/UX Design
 

@@ -12,6 +12,8 @@
 - 📫 How to reach me **ttwitecki@gmail.com**
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomekSwitecki&repo=homework-project)](https://github.com/TomekSwitecki/homework-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomekSwitecki&repo=homework-project&theme=react)](https://github.com/TomekSwitecki/homework-project)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomekSwitecki&layout=compact&theme=react)](https://github.com/TomekSwitecki/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomekSwitecki&show_icons=true&theme=react)

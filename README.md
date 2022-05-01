@@ -1,4 +1,4 @@
-
+![Tomek's Github banner](baner.png)
 
 <h1 align="center">Hi 👋, I'm Tomek!</h1>
 <h3 align="center">A computer science student from Poland</h3>

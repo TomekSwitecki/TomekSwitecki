@@ -1,4 +1,4 @@
-![Tomek's Github banner]([banner.png](https://user-images.githubusercontent.com/99132195/198852130-49d56bc5-8fd3-46b6-9099-ca0fdb3e83bd.png))
+![Tomek's Github banner]([banner.png])
 
 <h1 align="center">Hi 👋, I'm Tomek!</h1>
 <h3 align="center">A computer science student from Poland.</h3>

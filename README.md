@@ -1,4 +1,4 @@
-![Tomek's Github banner](banner3.png)
+![Tomek's Github banner](banner_new.png)
 
 <h1 align="center">Hi 👋, I'm Tomek!</h1>
 <h3 align="center">A computer science student from Poland.</h3>

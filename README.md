@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently mastering my **React** skills 
 
-- 📰 Frontend, Backend, Gamedev, UI/UX Design
+- 📰  UI/UX Design, Frontend, Gamedev
 
 - 📫 How to reach me **ttwitecki@gmail.com**
 

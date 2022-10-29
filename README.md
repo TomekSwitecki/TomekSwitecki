@@ -1,4 +1,4 @@
-![Tomek's Github banner](banner.png)
+![Tomek's Github banner]([banner.png](https://user-images.githubusercontent.com/99132195/198852130-49d56bc5-8fd3-46b6-9099-ca0fdb3e83bd.png))
 
 <h1 align="center">Hi 👋, I'm Tomek!</h1>
 <h3 align="center">A computer science student from Poland.</h3>
@@ -20,5 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomekSwitecki&layout=compact&theme=default)](https://github.com/TomekSwitecki/github-readme-stats)
 
 
-![Desktop - 2](https://user-images.githubusercontent.com/99132195/166164798-9b546233-f7fd-40f7-85a6-1537e4db2256.png)
 

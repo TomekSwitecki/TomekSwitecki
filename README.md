@@ -1,4 +1,4 @@
-![Tomek's Github banner](banner_new.png)
+![Tomek's Github banner](banner_new_2023.png)
 
 <h1 align="center">Hi 👋, I'm Tomek!</h1>
 <h3 align="center">A computer science student from Poland.</h3>
@@ -13,6 +13,7 @@
 
 - 🔭 I’m currently working on **homework-project** 👇
 - https://tomekswitecki.github.io/homework-project/#/landing
+
 
 
 

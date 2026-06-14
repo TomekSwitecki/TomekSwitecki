@@ -1,4 +1,4 @@
-![githubbaner](https://github.com/TomekSwitecki/TomekSwitecki/assets/99132195/8a0a3b36-ab7d-4894-af10-64d3523ad19d)
+![githubbaner](https://github.com/TomekSwitecki/TomekSwitecki/blob/main/banner_2026.png)
 
 
 
